@@ -1,4 +1,0 @@
-JavaScript
-Bootstrap
-jQuery
-Do a portfolio project! Make a match three game with JavaScript, jQuery and a Bootstrap grid structure
